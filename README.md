@@ -4,10 +4,11 @@ This CLI application is written in Python programming language,this program gene
 
 ## Installation
 
-To run this program, you need to have Python 3 installed on your system.If you don't have Python 3 installed, you can download it using homebrew for Mac:
-MacOS
+To run this program, you need to have Python 3 installed on your system. If you don't have Python 3 installed.
+### MacOS
+To download python3 on Mac we use Homebrew :
 brew install python3
 
-Linux/Ubuntu
+### Linux/Ubuntu
 sudo apt-get update
 sudo apt-get install python3
