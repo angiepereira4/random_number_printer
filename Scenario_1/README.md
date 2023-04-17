@@ -7,21 +7,21 @@ This CLI application is written in Python programming language,this program gene
 To run this program, you need to have Python 3 installed on your system. If you don't have Python 3 installed.
 ### MacOS
 To download python3 on Mac we use Homebrew :  
-brew install python3  
+**brew install python3**   
 
 ### Linux/Ubuntu
 To download python3 for linux/Ubuntu :  
 sudo apt-get update  
-sudo apt-get install python3  
+**sudo apt-get install python3**  
 Check whether Python 3 is correctly installed on your system by typing the following command and pressing Enter:  
-python --version  
+**python --version**   
 
 ## Usage  
 
-1.Open your terminal or command prompt.  
-2.Navigate to the directory where the program is saved.  
-3.Run the command **python3 random_number_printer.py**.  
-4.The program will generate 10 random numbers between 1 and 10 and print them to the terminal in random order.
+1. Open your terminal or command prompt.  
+2. Navigate to the directory where the program is saved.  
+3. Run the command **python3 random_number_printer.py**.  
+4. The program will generate 10 random numbers between 1 and 10 and print them to the terminal in random order.
 
 
 ## Overview  
